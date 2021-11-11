@@ -1,4 +1,4 @@
-19665909548894565
+19665909549132769
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -84435,7 +84435,7 @@ QFN DFN_QFN
 57
 rp2040_bt_feather
 SW_SPST_PTS830
-C&K Components, PTS 810 Series, Microminiature SMT Top Actuated, http://www.ckswitches.com/media/1476/pts810.pdf
+C&K Components, PTS 830 Series, Microminiature SMT Top Actuated, https://www.ckswitches.com/media/1478/pts830.pdf
 SPST Button Switch
 0
 4
