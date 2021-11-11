@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "rp2040_bt_feather")(type "KiCad")(uri "${KIPRJMOD}/symbols/rp2040_bt_feather.kicad_sym")(options "")(descr ""))
+)
